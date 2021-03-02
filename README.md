@@ -8,4 +8,6 @@ Offical Writeups: https://github.com/infosec-ucalgary/magpieCTF-2021
 - Binary Exploitation/Poly
 - Binary Exploitation/numwrite
 - Binary Exploitation/Finger-in-the-shell
-## In Progress
+## In Progress Writeups
+## Not started Writeups
+- All others
