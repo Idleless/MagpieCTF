@@ -1,0 +1,5 @@
+.ghidra/
+__pycache__/
+a.out
+core
+libc.so.*
